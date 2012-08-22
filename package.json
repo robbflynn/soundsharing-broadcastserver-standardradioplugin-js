@@ -1,0 +1,8 @@
+{
+    "name": "sound-sharing-server-standardradioplugin-js"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "flashsocket-js": "latest"
+  }
+}
