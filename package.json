@@ -1,5 +1,5 @@
 {
-    "name": "sound-sharing-server-standardradioplugin-js"
+    "name": "soundsharing-broadcastserver-standardradioplugin-js"
   , "version": "0.0.1"
   , "private": true
   , "dependencies": {
